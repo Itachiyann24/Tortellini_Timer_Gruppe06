@@ -29,12 +29,12 @@
 - Points persist in LocalStorage
 - Achievement tracking
 
-### 📊 Statistics
+###  Statistics
 - Tasks completed
 - Pomodoro sessions completed
 - Total points earned
 
-## 🛠️ Technologies
+##  Technologies
 - HTML5
 - CSS3 (Grid, Flexbox, animations)
 - JavaScript (ES6+)
